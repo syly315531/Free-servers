@@ -17,7 +17,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 vmess://eyJhZGQiOiAiY2RuLmpzYjIueHl6IiwgImFpZCI6IDAsICJob3N0IjogImF3c3VzMS5qaWFzdWIueHl6IiwgImlkIjogIjZiMzI0NGEzLTQ0Y2EtM2VmMi1iNDBmLTkwYzFiZmFlN2RhYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRG93bmxvYWQiLCAicG9ydCI6IDg0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 trojan://shenmegui@us.swiftfalcon.app:8447#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6IT7%E7%BD%91%E7%BB%9C
 ```
-<h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
+<h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/syly135565/main/sub</h5>
 <p>上方订阅地址二维码</p>
 <img src='https://raw.fastgit.org/Pawdroid/Free-servers/main/sub.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
